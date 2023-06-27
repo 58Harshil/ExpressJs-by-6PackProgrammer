@@ -1,0 +1,25 @@
+{
+  "name": "nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node NodeJs/index.js",
+    "dev": "nodemon NodeJs/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/58Harshil/pw-hindi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/58Harshil/pw-hindi/issues"
+  },
+  "homepage": "https://github.com/58Harshil/pw-hindi#readme",
+  "dependencies": {
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
